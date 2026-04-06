@@ -1,7 +1,4 @@
-Oui — voici une **version prête à mettre dans le rapport** pour la **partie modélisation** : texte + tableaux, de manière claire, précise et académique.
-Je vais te le structurer par sections, comme ça tu peux presque **copier-coller directement**. Le projet demande justement de définir les acteurs, ressources, actions, puis de modéliser DAC, RBAC et MAC. 
 
----
 
 # 1. Modélisation du système
 
