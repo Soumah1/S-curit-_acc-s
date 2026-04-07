@@ -173,7 +173,7 @@ Dans le contexte de l’entreprise, ce mécanisme est utile pour les dossiers de
 
 Le DAC introduit donc une logique de délégation d’accès, mais cette délégation reste toujours soumise aux autres mécanismes de sécurité, notamment RBAC et MAC.
 
-## 7.2 Tableau DAC — Exemple : dossier projet client Alpha
+## 7.2 Tableau DAC  Exemple : dossier projet client Alpha
 
 | Utilisateur                       |       Read | Write | Delete | Share |
 | --------------------------------- | ---------: | ----: | -----: | ----: |
@@ -184,7 +184,7 @@ Le DAC introduit donc une logique de délégation d’accès, mais cette délég
 | Stagiaire                         |        Non |   Non |    Non |   Non |
 | Client Oumar                      | Oui limité |   Non |    Non |   Non |
 
-## 7.3 Tableau DAC — Exemple : document technique interne
+## 7.3 Tableau DAC  Exemple : document technique interne
 
 | Utilisateur              |       Read | Write | Delete | Share |
 | ------------------------ | ---------: | ----: | -----: | ----: |
