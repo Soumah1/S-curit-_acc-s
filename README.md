@@ -117,7 +117,7 @@ Le système permet de traiter différents cas :
 
 * Abdoulaye Soumah
 * Ramatoulaye bah
-* Oulimata
+* Ndèye Oulimata Badiane
 
 ---
 
